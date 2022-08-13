@@ -1,0 +1,12 @@
+Collecting pyqtwebengine
+  Downloading PyQtWebEngine-5.15.6-cp37-abi3-win_amd64.whl (182 kB)
+Collecting PyQt5>=5.15.4
+  Downloading PyQt5-5.15.7-cp37-abi3-win_amd64.whl (6.8 MB)
+Collecting PyQtWebEngine-Qt5>=5.15.0
+  Downloading PyQtWebEngine_Qt5-5.15.2-py3-none-win_amd64.whl (60.0 MB)
+Collecting PyQt5-sip<13,>=12.11
+  Downloading PyQt5_sip-12.11.0-cp39-cp39-win_amd64.whl (78 kB)
+Collecting PyQt5-Qt5>=5.15.0
+  Downloading PyQt5_Qt5-5.15.2-py3-none-win_amd64.whl (50.1 MB)
+Installing collected packages: PyQt5-sip, PyQt5-Qt5, PyQtWebEngine-Qt5, PyQt5, pyqtwebengine
+Successfully installed PyQt5-5.15.7 PyQt5-Qt5-5.15.2 PyQt5-sip-12.11.0 PyQtWebEngine-Qt5-5.15.2 pyqtwebengine-5.15.6
